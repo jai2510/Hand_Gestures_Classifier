@@ -1,3 +1,6 @@
+
+# KEEP THIS FILE IN YOUR CURRENT DIRECTORY WHILE RUNNING THE MAIN PROGRAM
+
 #!/usr/bin/env python2
 # -*- coding: utf-8 -*-
 """
